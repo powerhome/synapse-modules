@@ -1,0 +1,6 @@
+site_name: Connect Server
+site_description: An internal package containing custom modules for Synapse.
+nav:
+  - "Home": "README.md"
+plugins:
+  - techdocs-core
