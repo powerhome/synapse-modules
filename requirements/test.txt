@@ -1,0 +1,2 @@
+coverage==7.10.1
+setuptools>=78.1.1,<81 # This is a stopgap. Synapse removed pkg_resources usage in https://github.com/element-hq/synapse/pull/18910 (Sep 2025), so upgrading past that version will eliminate the need for this pin.
